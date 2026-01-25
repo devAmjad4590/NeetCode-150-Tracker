@@ -1,12 +1,8 @@
----
-tags:
-  - neetcode
----
 
-# [Problem Name]
+# [Valid Anagram]
 
-- **Problem Number**: 
-- **Difficulty**: 
+- **Problem Number**:  242
+- **Difficulty**: Easy
 - **Pattern**: 
 
 ---

@@ -1,12 +1,8 @@
----
-tags:
-  - neetcode
----
 
-# [Problem Name]
+# [Contains Duplicate]
 
-- **Problem Number**: 
-- **Difficulty**: 
+- **Problem Number**: 217
+- **Difficulty**: Easy
 - **Pattern**: 
 
 ---
