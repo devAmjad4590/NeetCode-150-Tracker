@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Dashboard.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dashboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Dashboard"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Dashboard"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Dashboard"
             }
           }
         ]
@@ -185,8 +185,15 @@
   },
   "active": "c716850b7b6e3470",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Templates/Problem Template.md",
+    "Dashboard.md",
+    "01 - Arrays & Hashing/347 - Top K Frequent Elements.md",
+    "06 - Linked List/206 - Reverse Linked List.md",
+    "01 - Arrays & Hashing/242 - Valid Anagram.md",
+    "01 - Arrays & Hashing/217 - Contains Duplicate.md",
+    "01 - Arrays & Hashing/49 - Group Anagram.md",
+    "01 - Arrays & Hashing/1 - Two Sum.md",
+    "Problem Name.md",
     "README.md"
   ]
 }
