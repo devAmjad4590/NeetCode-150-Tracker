@@ -49,4 +49,10 @@ class Solution:
 - **Next Review Date**: 2026-01-26
 - **Review Log**:
     - 2026-01-25 - Solved
-    - YYYY-MM-DD - Reviewed
+    - 2026-01-26 - Reviewed
+### Review Reptitions
+- [x] 1st Review
+- [ ] 2nd Review
+- [ ] 3rd Review
+- [ ] 4th Review
+- [ ] 5th Review

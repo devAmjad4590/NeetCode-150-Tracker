@@ -1,12 +1,7 @@
----
-tags:
-  - neetcode
----
+# [Group Anagram]
 
-# [Problem Name]
-
-- **Problem Number**: 
-- **Difficulty**: 
+- **Problem Number**: 49
+- **Difficulty**: Medium
 - **Pattern**: 
 
 ---
@@ -27,9 +22,9 @@ tags:
 
 ### Spaced Repetition
 
-- **Next Review Date**: YYYY-MM-DD
+- **Next Review Date**: 2026-01-27
 - **Review Log**:
-    - YYYY-MM-DD - Solved
+    - 2026-10-30 - Solved
     - YYYY-MM-DD - Reviewed
 
 ### Review Reptitions

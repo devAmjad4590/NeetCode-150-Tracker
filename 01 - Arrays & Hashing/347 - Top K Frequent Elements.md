@@ -1,12 +1,8 @@
----
-tags:
-  - neetcode
----
 
-# [Problem Name]
+# [Top K Frequent Elements]
 
-- **Problem Number**: 
-- **Difficulty**: 
+- **Problem Number**: 347
+- **Difficulty**: Medium
 - **Pattern**: 
 
 ---
@@ -27,11 +23,10 @@ tags:
 
 ### Spaced Repetition
 
-- **Next Review Date**: YYYY-MM-DD
+- **Next Review Date**: 2026-01-27
 - **Review Log**:
-    - YYYY-MM-DD - Solved
+    - 2025-11-04 - Solved
     - YYYY-MM-DD - Reviewed
-
 ### Review Reptitions
 - [ ] 1st Review
 - [ ] 2nd Review

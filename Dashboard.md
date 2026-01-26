@@ -14,9 +14,12 @@
 
 ### Problems Due for Review
 
-- `2026-01-26` - [[206 - Reverse Linked List]]
-- `2026-01-26` - [[217 - Contains Duplicate]]
-- `2026-01-26` - [[242 - Valid Anagram]]
+- `2026-01-27` - [[49 - Group Anagram]]
+- `2026-01-27` - [[347 - Top K Frequent Elements]]
+- `2026-01-29` - [[206 - Reverse Linked List]]
+- `2026-01-29` - [[217 - Contains Duplicate]]
+- `2026-01-29` - [[242 - Valid Anagram]]
+- `2026-01-29` - [[1 - Two Sum]]
 
 ---
 
