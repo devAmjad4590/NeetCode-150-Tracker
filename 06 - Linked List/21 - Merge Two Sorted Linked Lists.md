@@ -9,7 +9,7 @@
 
 ### Key Insight
 
-- O(n + m) where n is list1 and m is list2
+- O(n + m) where n is list1 and m is list2. O(1) Memory
 - We create a new list with a dummy node, then iterate through both lists and compare the smaller values. The smaller node will be attached to the next pointer of the new list. Eventually, one of the lists (list1 and list2) will iterate to the end of the Linked List. So, we simply fill up the rest of the other existing lists to the new list. This will handle the edge case of this problem in which one or both of the linked lists might be empty.
 
 ---
