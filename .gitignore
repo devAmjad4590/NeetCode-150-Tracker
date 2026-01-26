@@ -1,0 +1,10 @@
+# Ignore volatile UI state (the most important ones to ignore)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Optional: Ignore plugin settings that might contain API keys
+# .obsidian/plugins/*/data.json
+
+# Ignore system files
+.DS_Store
+.trash/
