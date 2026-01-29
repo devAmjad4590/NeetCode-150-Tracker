@@ -42,13 +42,13 @@ class Solution:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-01-27
+- **Next Review Date**: 2026-02-02
 - **Review Log**:
     - 2026-01-26 - Solved
-    - YYYY-MM-DD - Reviewed
+    - 2026-01-29 - Reviewed
 
 ### Review Reptitions
-- [ ] 1st Review
+- [x] 1st Review
 - [ ] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
