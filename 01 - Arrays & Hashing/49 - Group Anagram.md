@@ -35,13 +35,13 @@
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-01-30
+- **Next Review Date**: 2026-02-04
 - **Review Log**:
     - 2026-01-29 - Solved
-    - YYYY-MM-DD - Reviewed
+    - 2026-02-01 - Reviewed
 
 ### Review Reptitions
-- [ ] 1st Review
+- [x] 1st Review
 - [ ] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review

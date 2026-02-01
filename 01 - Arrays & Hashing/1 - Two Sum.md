@@ -33,14 +33,14 @@ class Solution:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-01-29
+- **Next Review Date**: 2026-02-08
 - **Review Log**:
     - 2025-10-30 - Solved
-    - 2026-01-26 - Reviewed
+    - 2026-01-01 - Reviewed
 
 ### Review Reptitions
 - [x] 1st Review
-- [ ] 2nd Review
+- [x] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review

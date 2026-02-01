@@ -1,9 +1,8 @@
-
 # [Valid Anagram]
 
 - **Problem Number**:  242
 - **Difficulty**: Easy
-- **Pattern**: Sort
+- **Pattern**: Sort, Hashmap
 
 ---
 
@@ -18,20 +17,26 @@
 ```python
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        return sorted(s) == sorted(t)
+        if len(s) != len(t):
+            return False
+        countS, countT = {}, {}
+        for i in range(len(s)):
+            countS[s[i]] = 1 + countS.get(s[i], 0)
+            countT[t[i]] = 1 + countT.get(t[i], 0)
+        return countS == countT
 ```
 
 ---
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-01-29
+- **Next Review Date**: 2026-02-08
 - **Review Log**:
     - 2025-10-29 - Solved
-    - 2026-01-26 - Reviewed
+    - 2026-02-01 - Reviewed
 ### Review Reptitions
 - [x] 1st Review
-- [ ] 2nd Review
+- [x] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review
