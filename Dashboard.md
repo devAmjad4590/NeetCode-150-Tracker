@@ -13,8 +13,9 @@
 ---
 
 ### Problems Due for Review
-- `2026-03-16` - [[2 - Add Two Numbers]]
-- `2026-03-16` - [[287 - Find the Duplicate Number]]
+- `2026-04-02` - [[36 - Valid Sudoku]]
+- `2026-04-04` - [[2 - Add Two Numbers]]
+- `2026-04-06` - [[287 - Find the Duplicate Number]]
 -  `2026-03-16` - [[21 - Merge Two Sorted Linked Lists]] 
 - `2026-03-18` - [[238 - Product of Array Except Self]]
 - `2026-03-22` - [[19 - Remove Nth Node From End of List]]

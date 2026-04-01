@@ -41,14 +41,14 @@ class Solution:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-02-28
+- **Next Review Date**: 2026-04-06
 - **Review Log**:
     - 2026-02-24 - Solved
-    - 2026-02-25 - Reviewed
+    - 2026-03-30 - Reviewed
 
 ### Review Reptitions
 - [x] 1st Review
-- [ ] 2nd Review
+- [x] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review
