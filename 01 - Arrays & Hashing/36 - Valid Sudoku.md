@@ -44,13 +44,13 @@ class Solution:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-04-02
+- **Next Review Date**: 2026-04-07
 - **Review Log**:
     - 2026-12-19 - Solved
-    - 2026-04-01 - Reviewed
+    - 2026-04-04 - Reviewed
 
 ### Review Reptitions
-- [ ] 1st Review
+- [x] 1st Review
 - [ ] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
