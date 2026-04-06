@@ -53,14 +53,14 @@ class Solution:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-04-04
+- **Next Review Date**: 2026-04-13
 - **Review Log**:
     - 2026-02-23 - Solved
-    - 2026-04-01 - Reviewed
+    - 2026-04-06 - Reviewed
 
 ### Review Reptitions
 - [x] 1st Review
 - [x] 2nd Review
-- [ ] 3rd Review
+- [x] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review
