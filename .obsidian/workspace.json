@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Linked List/138 - Copy Linked List with Random Pointer.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "138 - Copy Linked List with Random Pointer"
+              "title": "Dashboard"
             }
           },
           {
@@ -241,17 +241,17 @@
   },
   "active": "024cf298e113ef0b",
   "lastOpenFiles": [
+    "06 - Linked List/138 - Copy Linked List with Random Pointer.md",
+    "Dashboard.md",
+    "01 - Arrays & Hashing/36 - Valid Sudoku.md",
     "Pasted image 20260406093337.png",
     "Templates/Problem Template.md",
-    "06 - Linked List/138 - Copy Linked List with Random Pointer.md",
     "06 - Linked List/141 - Linked List Cycle.md",
-    "Dashboard.md",
     "01 - Arrays & Hashing/128 - Longest Consecutive Sequence.md",
     "01 - Arrays & Hashing/217 - Contains Duplicate.md",
     "06 - Linked List/287 - Find the Duplicate Number.md",
     "06 - Linked List/2 - Add Two Numbers.md",
     "README.md",
-    "01 - Arrays & Hashing/36 - Valid Sudoku.md",
     "01 - Arrays & Hashing/271 - Encode and Decode Strings.md",
     "06 - Linked List/19 - Remove Nth Node From End of List.md",
     "01 - Arrays & Hashing/238 - Product of Array Except Self.md",
