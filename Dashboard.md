@@ -14,6 +14,7 @@
 
 ### Problems Due for Review
 - `2026-04-10` - [[138 - Copy Linked List with Random Pointer]]
+- `2026-04-10` - [[128 - Longest Consecutive Sequence]]
 - `2026-04-13` - [[287 - Find the Duplicate Number]]
 - `2026-04-13` - [[2 - Add Two Numbers]]
 - `2026-04-14` - [[36 - Valid Sudoku]]
