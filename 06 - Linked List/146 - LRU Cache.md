@@ -80,13 +80,13 @@ class LRUCache:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-04-10
+- **Next Review Date**: 2026-04-15
 - **Review Log**:
     - 2026-04-09 - Solved
-    - YYYY-MM-DD - Reviewed
+    - 2026-04-12 - Reviewed
 
 ### Review Reptitions
-- [ ] 1st Review
+- [x] 1st Review
 - [ ] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
