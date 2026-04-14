@@ -60,13 +60,13 @@ class Solution:    
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-04-13
+- **Next Review Date**: 2026-04-17
 - **Review Log**:
     - 2026-04-12 - Solved
-    - YYYY-MM-DD - Reviewed
+    - 2026-04-14 - Reviewed
 
 ### Review Reptitions
-- [ ] 1st Review
+- [x] 1st Review
 - [ ] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
