@@ -13,12 +13,11 @@
 ---
 
 ### Problems Due for Review
-- `2026-04-15` - [[25 - Reverse Nodes in K-Group]]
-- `2026-04-15` - [[36 - Valid Sudoku]]
-- `2026-04-15` - [[146 - LRU Cache]]
-- `2026-04-15` - [[128 - Longest Consecutive Sequence]]
+- `2026-04-16` - [[128 - Longest Consecutive Sequence]]
 - `2026-04-17` - [[23 - Merge K Sorted Linked Lists]]
 - `2026-04-19` - [[138 - Copy Linked List with Random Pointer]]
+- `2026-04-21` - [[25 - Reverse Nodes in K-Group]]
+- `2026-04-25` - [[146 - LRU Cache]]
 -  `2026-03-16` - [[21 - Merge Two Sorted Linked Lists]] 
 - `2026-03-18` - [[238 - Product of Array Except Self]]
 - `2026-03-22` - [[19 - Remove Nth Node From End of List]]
@@ -31,6 +30,7 @@
 - `2026-03-08` - [[242 - Valid Anagram]]
 - `2026-03-10` - [[1 - Two Sum]]
 - `2026-03-10` - [[347 - Top K Frequent Elements]]
+- `2026-05-02` - [[36 - Valid Sudoku]]
 - `2026-05-13` - [[287 - Find the Duplicate Number]]
 - `2026-05-13` - [[2 - Add Two Numbers]]
 

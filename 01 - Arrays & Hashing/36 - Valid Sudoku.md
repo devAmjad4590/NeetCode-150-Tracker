@@ -52,6 +52,6 @@ class Solution:
 ### Review Reptitions
 - [x] 1st Review
 - [x] 2nd Review
-- [ ] 3rd Review
+- [x] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review
