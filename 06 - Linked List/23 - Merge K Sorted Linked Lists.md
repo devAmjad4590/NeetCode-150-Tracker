@@ -8,6 +8,8 @@
 
 ### Key Insight
 
+- time complexity O(n log k) , where k is number of lists
+- memory complexity O(k)
 - We iterate through the array of linked lists and sort each two linked lists. If odd, we sort one linked list and leave the other as None.
 - After selecting two linked list, we sort them using the merge List algorithm and append that merged sorted linked list into the temp arry `mergedLists`. Then we update the `lists` and check if the length is > 1. If it is then there is more merging to do, if not then return `lists[0]`
 
@@ -60,14 +62,14 @@ class Solution:    
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-04-17
+- **Next Review Date**: 2026-04-29
 - **Review Log**:
     - 2026-04-12 - Solved
-    - 2026-04-14 - Reviewed
+    - 2026-04-22 - Reviewed
 
 ### Review Reptitions
 - [x] 1st Review
-- [ ] 2nd Review
+- [x] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review

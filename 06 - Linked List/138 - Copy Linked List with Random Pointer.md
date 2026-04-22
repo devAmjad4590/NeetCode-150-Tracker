@@ -1,4 +1,3 @@
-
 # [Copy Linked List with Random Pointer]
 
 - **Problem Number**: 138
@@ -39,14 +38,14 @@ class Solution:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-04-19
+- **Next Review Date**: 2026-05-06
 - **Review Log**:
     - 2026-04-06 - Solved
-    - 2026-04-12 - Reviewed
+    - 2026-04-22 - Reviewed
 
 ### Review Reptitions
 - [x] 1st Review
 - [x] 2nd Review
-- [ ] 3rd Review
+- [x] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review

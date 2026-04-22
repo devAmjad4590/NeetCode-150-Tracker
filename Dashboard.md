@@ -13,13 +13,15 @@
 ---
 
 ### Problems Due for Review
-- `2026-04-16` - [[128 - Longest Consecutive Sequence]]
-- `2026-04-17` - [[23 - Merge K Sorted Linked Lists]]
-- `2026-04-19` - [[138 - Copy Linked List with Random Pointer]]
-- `2026-04-21` - [[25 - Reverse Nodes in K-Group]]
+- `2026-04-23` - [[704 - Binary Search]]
+- `2026-04-23` - [[25 - Reverse Nodes in K-Group]]
+- `2026-04-23` - [[238 - Product of Array Except Self]]
+- `2026-04-23` - [[20 - Valid Parenthesis]]
 - `2026-04-25` - [[146 - LRU Cache]]
+- `2026-04-29` - [[128 - Longest Consecutive Sequence]]
+- `2026-04-29` - [[23 - Merge K Sorted Linked Lists]]
+- `2026-05-06` - [[138 - Copy Linked List with Random Pointer]]
 -  `2026-03-16` - [[21 - Merge Two Sorted Linked Lists]] 
-- `2026-03-18` - [[238 - Product of Array Except Self]]
 - `2026-03-22` - [[19 - Remove Nth Node From End of List]]
 - `2026-03-22` - [[271 - Encode and Decode Strings]]
  - `2026-02-02` - [[141 - Linked List Cycle]]
