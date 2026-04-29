@@ -38,13 +38,13 @@ class Solution:
 
 ### Spaced Repetition
 
-- **Next Review Date**: 2026-04-23
+- **Next Review Date**: 2026-04-26
 - **Review Log**:
     - 2026-04-22 - Solved
     - 2026-04-23 - Reviewed
 
 ### Review Reptitions
-- [ ] 1st Review
+- [x] 1st Review
 - [ ] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review

@@ -3,34 +3,57 @@
 
 - **Problem Number**: Easy
 - **Difficulty**: 20
-- **Pattern**: 
+- **Pattern**: Stack
 
 ---
 
 ### Key Insight
 
-- 
+- O(n) time complexitiy
+- O(n) space
+- We append all the opening brackets. If it is closing, we start popping and check if the top of the stack is equal to the opening bracket of that character. If true then its valid so far, if not then return False
 
 ---
 
 ### Solution
 
 ```python
-# Your solution code here
+class Solution:
+    def isValid(self, s: str) -> bool:
+        map = {
+          '}': '{',
+          ')': '(',
+          ']': '['
+        }
+        stack = []
+  
+
+        for i in s:
+          if i in map:
+            if stack and stack[-1] == map[i]:
+              stack.pop()
+            else:
+              return False
+          else:
+            stack.append(i)
+        if not stack:
+          return True
+        else:
+          return False
 ```
 
 ---
 
 ### Spaced Repetition
 
-- **Next Review Date**: YYYY-MM-DD
+- **Next Review Date**: 2026-04-24
 - **Review Log**:
-    - YYYY-MM-DD - Solved
-    - YYYY-MM-DD - Reviewed
+    - 2025-11-01 - Solved
+    - 2026-04-23 - Reviewed
 
 ### Review Reptitions
-- [ ] 1st Review
-- [ ] 2nd Review
+- [x] 1st Review
+- [x] 2nd Review
 - [ ] 3rd Review
 - [ ] 4th Review
 - [ ] 5th Review

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "07 - Binary Search/74 - Search a 2D Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "74 - Search a 2D Matrix"
             }
           },
           {
@@ -227,20 +227,22 @@
   },
   "active": "024cf298e113ef0b",
   "lastOpenFiles": [
+    "Templates/Problem Template.md",
+    "07 - Binary Search/74 - Search a 2D Matrix.md",
     "07 - Binary Search/704 - Binary Search.md",
+    "Dashboard.md",
+    "04 - Stack/20 - Valid Parenthesis.md",
+    "01 - Arrays & Hashing/238 - Product of Array Except Self.md",
+    "06 - Linked List/25 - Reverse Nodes in K-Group.md",
     "06 - Linked List/287 - Find the Duplicate Number.md",
     "07 - Binary Search",
     "06 - Linked List/Untitled",
     "06 - Linked List/206 - Reverse Linked List.md",
-    "Templates/Problem Template.md",
-    "04 - Stack/20 - Valid Parenthesis.md",
-    "Dashboard.md",
     "06 - Linked List/138 - Copy Linked List with Random Pointer.md",
     "06 - Linked List/23 - Merge K Sorted Linked Lists.md",
     "01 - Arrays & Hashing/128 - Longest Consecutive Sequence.md",
     "06 - Linked List/146 - LRU Cache.md",
     "01 - Arrays & Hashing/36 - Valid Sudoku.md",
-    "06 - Linked List/25 - Reverse Nodes in K-Group.md",
     "06 - Linked List/2 - Add Two Numbers.md",
     "README.md",
     "Pasted image 20260406093337.png",
@@ -248,14 +250,12 @@
     "01 - Arrays & Hashing/217 - Contains Duplicate.md",
     "01 - Arrays & Hashing/271 - Encode and Decode Strings.md",
     "06 - Linked List/19 - Remove Nth Node From End of List.md",
-    "01 - Arrays & Hashing/238 - Product of Array Except Self.md",
     "Pasted image 20260224090925.png",
     "01 - Arrays & Hashing/1 - Two Sum.md",
     "01 - Arrays & Hashing/347 - Top K Frequent Elements.md",
     "01 - Arrays & Hashing/242 - Valid Anagram.md",
     "06 - Linked List/143- Reorder List.md",
     "01 - Arrays & Hashing/49 - Group Anagram.md",
-    "06 - Linked List/21 - Merge Two Sorted Linked Lists.md",
-    "Problem Name.md"
+    "06 - Linked List/21 - Merge Two Sorted Linked Lists.md"
   ]
 }
